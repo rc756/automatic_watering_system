@@ -1,0 +1,2 @@
+0 12 * * * /home/pi/final_project/camera.sh
+@reboot /home/pi/final_project/run.sh
