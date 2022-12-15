@@ -1,0 +1,57 @@
+{
+    "Plants": {
+        "Satin Pothos": {
+            "intro":"Satin pothos are evergreen tropical vines that are not cold-tolerant. What distinguishes satin pothos from pothos is the variegation of its foliage. The heart-shaped leaves have silvery grey splotches, which makes them look almost shiny and adds to the visual appeal of the plant. The intensity of the variegation depends on the cultivar.",
+            "Temp Min": "18",
+            "Temp Max": "30",
+            "Humidity Min":"40",
+            "Humidity Max":"50",
+            "Sunlight":"indirect sunlight",
+            "Soil Dryness Check": "2 inches",
+            "Toxicity":"Toxic to pets"
+        },
+        "Fiddle Leaf Fig": {
+            "intro":"The fiddle-leaf fig (Ficus lyrata) is a popular indoor tree featuring very large, heavily veined, and glossy violin-shaped leaves that grow upright on a sleek trunk. A fiddle-leaf fig is perfect as a focal point of a room if you can situate it in a floor-standing container where the plant is allowed to grow to at least 6 feet tall.",
+            "Temp Min": "18",
+            "Temp Max": "30",
+            "Humidity Min":"30",
+            "Humidity Max":"65",
+            "Sunlight":"filtered sunlight",
+            "Soil Dryness Check": "1 inche",
+            "Toxicity":"Toxic to pets"
+            
+        
+        },
+        "Neon Pothosa": {
+            "intro":"Native to the tropical Solomon Islands, this stunning variety of pothos is characterized by neon green, heart-shaped leaves and a vining growth habit. The best part is, neon pothos are easy to care for—making them great for beginners or those with a notoriously brown thumb.",
+            "Temp Min": "15",
+            "Temp Max": "35",
+            "Humidity Min":"20",
+            "Humidity Max":"75",
+            "Sunlight":"indirect sunlight",
+            "Soil Dryness Check": " 2 inches",
+            "Toxicity":"Toxic to pets"
+        
+        },
+        "Money Tree": {
+            "intro":"Money tree, also commonly referred to as Guiana chestnut, is a species of tree native to Central and South America that has become an attractive, easy-care houseplant thanks to its hardy nature.",
+            "Temp Min": "18",
+            "Temp Max": "24",
+            "Humidity Min":"50",
+            "Humidity Max":"85",
+            "Sunlight":"direct sunlight",
+            "Soil Dryness Check": "1 inche",
+            "Toxicity":"Toxic to pets"
+        },
+        "String of Pearls": {
+            "intro":"String of pearls plants are unique vining succulents that are easily recognizable by their tiny pea-shaped leaves. The leaves grow on trailing stems that gracefully spill over the sides of planters and hanging baskets much like the string of rubies succulent. ",
+            "Temp Min": "10",
+            "Temp Max": "30",
+            "Humidity Min":"20",
+            "Humidity Max":"40",
+            "Sunlight":"direct sunlight",
+            "Soil Dryness Check": "1.5 inche",
+            "Toxicity":"Toxic to humans & pets"
+        }
+    }
+}
